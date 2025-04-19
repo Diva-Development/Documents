@@ -29,7 +29,7 @@ By using Diva, you represent and warrant that you have the right to stream or pl
 
 ## 4. Data Collection and Privacy
 
-For a detailed explanation of how we collect, store, and use your data, please refer to our [Privacy Policy](https://github.com/Diva-Development/Documents/privacy-policy.md). By using Diva, you consent to the collection and use of your data as described in the Privacy Policy.
+For a detailed explanation of how we collect, store, and use your data, please refer to our [Privacy Policy](https://github.com/Diva-Development/Documents/blob/main/privacy-policy.md). By using Diva, you consent to the collection and use of your data as described in the Privacy Policy.
 
 ## 5. Third-Party Integrations
 
