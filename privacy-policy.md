@@ -41,7 +41,7 @@ Diva interacts with third-party services (such as YouTube, Spotify, SoundCloud, 
 
 ## 5. Security
 
-We take the security of your data seriously and implement appropriate measures to protect it from unauthorized access, alteration, or disclosure. However, please be aware that no method of transmission over the Internet or electronic storage is 100% secure, and we cannot guarantee absolute security.
+We take the security of your data seriously and implement appropriate measures to protect it from unauthorized access, alteration, or disclosure. However, please be aware that no method of transmission over the Internet or electronic storage is 100% secure, and we guarantee absolute security.
 
 ## 6. Children’s Privacy
 
